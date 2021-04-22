@@ -1,0 +1,37 @@
+body {
+    background-color: #FA8072;
+}
+ input {
+    margin-top: 100px;
+    margin-left: 220px;
+    width: 350px;
+    height: 30px;
+    display: block;
+    padding-left: 10px;
+    margin: auto;
+}
+#output {
+    margin-top: 10px;
+    margin-left: 700px;
+    margin-bottom: 0;
+    /* margin: auto; */
+    width: 100px;
+    background: lightgreen;
+    text-align: center;
+}
+#btn {
+     width: 250px;
+     height: 40px;
+     color: #fff;
+     background-color: blue;
+     border-style: none;
+     border-radius: 15px;
+     margin-top: 50px;
+     margin-left: 630px;
+     cursor: pointer;
+}
+h1{
+    text-align: center;
+    color: #000;
+    margin-top: 50px;
+}
